@@ -1,2 +1,2 @@
-# Cousera-test
+# Payment Gateway
 Coursera test Repository
